@@ -1,0 +1,59 @@
+.sur-question{
+    border: 1px solid;
+    border-radius: 5px;
+    width: 640px;
+    height: 200px;
+    box-shadow: 2px 2px 2px 2px grey;
+    margin: 15%;
+    margin-left: 300px;
+    
+    
+}
+select, input{
+    width: 75%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+
+}
+.sur-question h2, h1{
+    margin-left: 20px;
+    font-size: 25px;
+}
+ .submit{
+    margin-right: 10px;
+    background-color: teal;
+    color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 05px;
+    cursor: pointer;
+}
+.sur-question button:hover{
+    background-color: white;
+    color: teal;
+    transition: ease-in 1.5s;
+}
+ .floa{
+    margin-left: 10px;
+    background-color: teal;
+    color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 05px;
+    cursor: pointer;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+icon{
+    color: white;
+    font-size: 25px;
+    padding: 2px;
+}
+.and{
+    text-align: center;
+    padding-top: 20px;
+}
